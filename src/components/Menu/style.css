@@ -1,0 +1,33 @@
+
+body{
+    padding: 0;
+    border: 0px;
+}
+
+li{
+    list-style: none;
+    color: #fff;
+    margin: 30px 0px;
+    cursor: pointer;
+    
+}
+
+.list{   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.menu{
+    width: 30%;
+    height: 100vh;
+    position: fixed;
+    max-width: 200px;
+    background-color: #19A6F4;
+}
+
+.link{
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,9 @@
+.render{
+    width: 98%;
+    height: 470px;
+    overflow: auto;
+    margin-top: 5%;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid grey;
+}

@@ -1,0 +1,26 @@
+.file{
+    display: grid;
+    margin: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    cursor: pointer;
+    width: 100px;
+    text-align: center;
+    border: 1px solid transparent;
+
+}
+.file:hover{
+    border: 1px solid #19A6F4;
+    border-radius: 5px;
+}
+.icon{
+   
+    color: #19A6F4;
+    margin: 0 auto;
+}
+
+.linkHistory{
+    text-decoration: none;
+    color: #000;
+}
